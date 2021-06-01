@@ -1,1 +1,2 @@
 # 3d-shape-plot
+This is a project I created using Python's pygame module. The user is given a shape on the 3d board/graph and they can manipulate however they want using 3D translation, scaling, and rotation. The initial shape is drawn in white while the new, transformed shape is drawn in green. The shapes are manipulated using perspective projection equations that I learned from my Computer Graphics class. 
